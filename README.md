@@ -1,7 +1,7 @@
 # AR-HitTheBot
  Mini Project on ARFoundation & ARCore
  
- Project Description : Open scene file in unity.
+ Project Description : Open scene file in unity and Build the app.
  
  
  (or) APK File : https://drive.google.com/file/d/1aZGMRoi-sXmtBUvSTpy9kgcBiNE2PMq3/view
