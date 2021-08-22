@@ -1,7 +1,10 @@
 # AR-HitTheBot
  Mini Project on ARFoundation & ARCore
  
- Open scene file in unity.
+ Project Description : Open scene file in unity.
+ 
+ 
+ (or) APK File : https://drive.google.com/file/d/1aZGMRoi-sXmtBUvSTpy9kgcBiNE2PMq3/view
  
  Android Device Hardware and Software Requirements :
 -  Android API Level 24+
